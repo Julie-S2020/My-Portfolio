@@ -1,0 +1,132 @@
+body {
+    font-family: 'Montserrat Alternates', sans-serif;   
+}
+
+#header {
+    background-image: url('../img/mountain.jpg');
+    background-position-y: 75px;
+    background-repeat: no-repeat;
+    height: 750px;
+    width: 1400px;
+    box-sizing: border-box;
+}
+
+nav ul li {
+    float: right;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 40px;
+    text-decoration-style: none;
+    color: #284B63;
+    display: inline-block;
+    font-size: 24px;
+    padding-right: 25px;
+    text-transform: uppercase;
+}
+
+h1 {
+
+   font-size: 38px;
+   color:#284B63;
+   padding-top: 125px;
+   margin-bottom: 5PX;
+   line-height: 42px;
+}
+
+h2 {
+    padding-top: 50px;
+    text-transform: uppercase;
+    font-size: 38px;
+}
+
+h3 { 
+    font-size: 32px;
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 0;
+}
+
+h4 {
+    margin-bottom: 15px;
+}
+
+.me {
+    color: #284B63;
+    font-size: 24px;
+    margin-top: 5px;
+}
+
+p {
+    color: white;
+}
+
+.description {
+    color: #284B63;;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.container {
+    width: 1400px;
+    margin: 20px auto;
+    color: white;
+}
+
+#about {
+    height: 950px;
+    background: #3C6E71;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 30px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    line-height: 42px;
+
+}
+
+#portfolio {
+    height: 870px;
+    background-color: #D9D9D9;
+    overflow: auto;
+    color: #284B63;;
+    text-align: center;
+
+}
+
+.rogue-pickings-website,
+.jubilee-austen-project,
+.recipe-collection {
+    float: left;
+    padding-top: 100px;
+    text-align: center;
+    margin: auto;
+    color: #284B63;;
+    width: 466px;
+    height: 225px;
+    box-sizing: border-box;
+}
+
+.contact {
+    height: 350px;
+    background: #284B63;;
+    margin-top: none;
+}
+
+.third-width-email,
+.third-width-social,
+.third-width-meet {
+    float: left;
+    padding: 10px 100px;
+    font-size: 24px;
+    text-align: center;
+    width: 466px;
+    box-sizing: border-box;
+    height: 225px;
+    line-height: 24px;
+}
+
+.third-width p {
+    margin-top: 10px;
+}
+
